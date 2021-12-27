@@ -1,0 +1,4 @@
+modules: BeautifulSoup,Requests,lxml
+to install: 
+go to cmd 
+and run the following commands: pip install beautifulsoup, pip install requests, pip install lxml
